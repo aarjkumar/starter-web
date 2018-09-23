@@ -7,8 +7,9 @@
     Pandey
     devendra.0818@gmail.com
     DevOps Engineer
+    Let
 # THANKS
-
+   
     <name>
 
 Viswa 
@@ -19,3 +20,5 @@ Viswa
     jQuery, Modernizr
 
     Machine line
+    Docker,Java programing 
+
