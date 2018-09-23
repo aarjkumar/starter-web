@@ -4,7 +4,9 @@
 # TEAM
 
     <name> --Devendra <role> -- <twitter>
-
+    Pandey
+    devendra.0818@gmail.com
+    DevOps Engineer
 # THANKS
 
     <name>
