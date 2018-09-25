@@ -8,12 +8,17 @@
     devendra.0818@gmail.com
     DevOps Engineer
     Let
+  Doing some changes in local for rebase remote  repo
 # THANKS
    
     <name>
-
+Thank to my aal student
 Viswa 
+<<<<<<< HEAD
 Modifying the file for rebase remote repo.
+=======
+Hi, This is in mybrach ----before rebase:wq
+>>>>>>> mybranch
 
 Crreate margter conflict in rebase -----Before rebase
 # TECHNOLOGY COLOPHON
