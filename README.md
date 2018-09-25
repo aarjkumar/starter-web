@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## GITHUB content
 Add new line here
 Comparison with repo
+
+Adding new lectuer
