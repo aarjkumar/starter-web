@@ -3,6 +3,7 @@
 
 # TEAM
 
+Developer
     <name> --Devendra <role> -- <twitter>
     Pandey
     devendra.0818@gmail.com
