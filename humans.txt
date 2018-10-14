@@ -1,0 +1,34 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+Developer
+    <name> --Devendra <role> -- <twitter>
+    Pandey
+    devendra.0818@gmail.com
+    DevOps Engineer
+    Let
+  Doing some changes in local for rebase remote  repo
+# THANKS
+   
+    <name>
+Thank to my aal student
+Viswa 
+<<<<<<< HEAD
+Modifying the file for rebase remote repo.
+=======
+Hi, This is in mybrach ----before rebase:wq
+>>>>>>> mybranch
+
+Crreate margter conflict in rebase -----Before rebase
+# TECHNOLOGY COLOPHON
+2nd Levele
+
+
+    HTML5, CSS3
+    jQuery, Modernizr
+
+    Machine line
+    Docker,Java programing 
+New file created for checking this time
